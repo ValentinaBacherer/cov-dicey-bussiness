@@ -39,7 +39,7 @@ function handleSum() {
         for (dice of diceArray) {
             sum += dice.value
         }
-        alert(`Sum of dice is: ${sum}!`);
+        alert(`You have ${diceArray.length} dice 😃. Sum of dice is: ${sum}!`);
     } else {
         alert('There is nothing to add!')
     }
