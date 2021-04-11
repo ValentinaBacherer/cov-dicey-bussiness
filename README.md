@@ -28,3 +28,5 @@ Create a sumDice function and a button that triggers it. It should add up the cu
 Add a feature where clicking on a die on the page causes just that one die to roll, updating its face value
 Add a feature where double clicking on a die on the page causes that die to be removed from the page
 Be careful to take appropriate measures so that the sumDice function still reports the correct sum after you delete a die. You need to not only remove the on-screen representation of the Die on the screen, but also remove the Die object from the array as well.
+
+Added something here
